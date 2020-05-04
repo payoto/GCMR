@@ -1,0 +1,8 @@
+name: covid19model-to-GCMR
+dependencies:
+  - python>=3.6
+  - pandas
+  - numpy
+  - urllib
+  - os
+  - pylcs
